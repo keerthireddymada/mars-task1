@@ -73,7 +73,7 @@ Each problem includes my learning experience, approach, and any resources I used
   After taking input, I compared the morse code in the if block and if it is still a . or -, it will move forward else if it is a gap,slash,newline, it will stop and convert the morse code to get a single letter and it repeats. This, we compare with the morse chart and add that letter to our decoded array.
 - **Resources Used**:
   I had to take the whole morse code online. Like which letter corresponds to what symbols.
-
+---
 ### 3. Encrypted message Question
 
  - **My Learning Experience**:
